@@ -3,3 +3,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> print("hello2")
 hello2
 >>> print("hello xiaozhang")
+print("hello")
